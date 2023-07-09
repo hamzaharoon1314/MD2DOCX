@@ -31,11 +31,6 @@ The Markdown to DOCX Converter is a Python script that allows you to convert Mar
 
 5. The conversion process will be displayed in the console, and once completed, the path to the output DOCX file will be shown.
 
-## Examples
-
-Here are a few examples of how to use the Markdown to DOCX Converter:
-
-- Convert a single Markdown file:
 
 ## License
 
